@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>nOps Announcements</title>
+  <link>https://www.nops.io/category/announcement/</link>
+  <description>Latest announcements from nOps.io</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 14 Apr 2025 08:56:02 -0700</lastBuildDate>
+  <pubDate>Mon, 14 Apr 2025 08:56:02 -0700</pubDate>
+  <ttl>1800</ttl>
+
+  <item>
+    <title>New Unused Elastic Load Balancing (ELB) Detection</title>
+    <link>https://www.nops.io/blog/new-unused-elb-detection/</link>
+    <description>nOps introduces detection for unused ELBs to optimize AWS resources.</description>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/new-unused-elb-detection/</guid>
+  </item>
+
+  <item>
+    <title>Introducing Twilio Integration for Business Contexts+</title>
+    <link>https://www.nops.io/blog/twilio-integration/</link>
+    <description>nOps now integrates with Twilio, enabling detailed billing data ingestion for comprehensive cost analysis across cloud services.</description>
+    <pubDate>Fri, 11 Apr 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/twilio-integration/</guid>
+  </item>
+
+  <item>
+    <title>Introducing Advanced Cloud Cost Forecasting & Anomaly Detection</title>
+    <link>https://www.nops.io/blog/advanced-cloud-cost-forecasting/</link>
+    <description>nOps launches advanced tools for forecasting cloud costs and detecting anomalies.</description>
+    <pubDate>Mon, 07 Apr 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/advanced-cloud-cost-forecasting/</guid>
+  </item>
+
+  <item>
+    <title>Introducing VMware Integration for AWS Migration Assessments</title>
+    <link>https://www.nops.io/blog/vmware-integration/</link>
+    <description>New VMware integration assists in analyzing on-premises environments to streamline AWS migration planning.</description>
+    <pubDate>Sat, 05 Apr 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/vmware-integration/</guid>
+  </item>
+
+  <item>
+    <title>Introducing S3 Intelligent Tiering Recommendations</title>
+    <link>https://www.nops.io/blog/introducing-s3-intelligent-tiering-recommendations/</link>
+    <description>Automated recommendations to optimize S3 storage costs by identifying buckets suitable for Intelligent Tiering.</description>
+    <pubDate>Fri, 04 Apr 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/introducing-s3-intelligent-tiering-recommendations/</guid>
+  </item>
+
+  <item>
+    <title>Announcing Terraform Onboarding for All nOps Products</title>
+    <link>https://www.nops.io/blog/terraform-onboarding/</link>
+    <description>nOps now supports Terraform for onboarding AWS accounts and EKS clusters, facilitating infrastructure-as-code workflows.</description>
+    <pubDate>Tue, 01 Apr 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/terraform-onboarding/</guid>
+  </item>
+
+  <item>
+    <title>Introducing Aurora I/O Optimization Recommendations</title>
+    <link>https://www.nops.io/blog/introducing-aurora-i-o-optimization-recommendations/</link>
+    <description>nOps evaluates Aurora clusters to suggest cost-saving opportunities by switching to I/O-Optimized configurations.</description>
+    <pubDate>Sun, 30 Mar 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/introducing-aurora-i-o-optimization-recommendations/</guid>
+  </item>
+
+  <item>
+    <title>New OpenAI Integration with nOps Business Contexts+</title>
+    <link>https://www.nops.io/blog/new-openai-integration-with-nops-business-contexts/</link>
+    <description>nOps integrates with OpenAI to provide detailed billing insights and cost allocation for AI-driven applications.</description>
+    <pubDate>Sat, 29 Mar 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/new-openai-integration-with-nops-business-contexts/</guid>
+  </item>
+
+  <item>
+    <title>Introducing nOps Cost Optimization Recommendations</title>
+    <link>https://www.nops.io/blog/introducing-nops-cost-optimization-recommendations/</link>
+    <description>nOps launches new recommendations to help users optimize their cloud costs effectively.</description>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 -0700</pubDate>
+    <guid>https://www.nops.io/blog/introducing-nops-cost-optimization-recommendations/</guid>
+  </item>
+
+</channel>
+</rss>
